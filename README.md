@@ -2,6 +2,9 @@
 
 A polished Excel dashboard that analyzes retail sales for a coffee shop chain and turns raw transaction data into actionable insights.
 
+## 📊 Dashboard Preview
+
+![Coffee Shop Sales Dashboard](Coffee_Shop_Sales_Dashboard.png)
 ---
 
 ## 🎯 Objectives
