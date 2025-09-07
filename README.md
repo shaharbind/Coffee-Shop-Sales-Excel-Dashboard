@@ -17,14 +17,15 @@ A polished Excel dashboard that analyzes retail sales for a coffee shop chain an
 
 | File Name | Description |
 |-----------|-------------|
-| `coffeeOrdersData.xlsx` | Raw dataset containing detailed coffee orders. |
-| `coffeeOrdersProject.xlsx` | Processed and analyzed data including charts, pivot tables, and insights. |
+| `Coffee_Shop_Data.xlsx` | Raw dataset containing detailed coffee orders. |
+| `Coffee_Shop_Sale.xlsx` | Processed and analyzed data including charts, pivot tables, and insights. |
+| `Coffee_Shop_Sales_Dashboard.png` | Screenshots of dashboard |
 
 
 ---
 
 ## 🔧 How to Use
-1. Open `excel/Coffee_Shop_Sales_Dashboard.xlsx`.
+1. Open `Coffee_Shop_Data.xlsx`.
 2. On the **Data** sheet, update or refresh the source tables (Power Query or table links).
 3. Review the **PivotTables** and press **Data → Refresh All**.
 4. Explore the **Dashboard** sheet: slicers for **Month** and **Day**, charts for time-of-day and category breakdowns.
@@ -60,12 +61,6 @@ A polished Excel dashboard that analyzes retail sales for a coffee shop chain an
 
 ---
 
-## 🚀 Reproduce / Refresh
-1. Put your raw files in `data/` and update the query connections (if using Power Query).
-2. Press **Data → Refresh All**.
-3. Dashboard updates automatically.
-
----
 
 ## 📈 Business Insights (Examples)
 - Peak order times are **morning 8–10 AM**, secondary peak around **5–7 PM**.
