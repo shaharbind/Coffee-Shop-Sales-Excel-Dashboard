@@ -61,7 +61,7 @@ coffee-shop-sales/
 - Time intelligence: **TEXT**, **WEEKDAY**, **HOUR**, custom date columns
 - PivotTables, PivotCharts, **Slicers**
 - Conditional Formatting & Chart formatting
-- (Optional) **Power Query** for data import/cleaning
+- **Power Query** for data import/cleaning
 
 ---
 
