@@ -1,4 +1,4 @@
-# Coffee Shop Sales – Excel Dashboard
+# ☕ Coffee Shop Sales – Excel Dashboard
 
 A polished Excel dashboard that analyzes retail sales for a coffee shop chain and turns raw transaction data into actionable insights.
 
@@ -13,17 +13,12 @@ A polished Excel dashboard that analyzes retail sales for a coffee shop chain an
 
 ---
 
-## 📂 Repository Structure
-coffee-shop-sales/
-├─ excel/
-│ └─ Coffee_Shop_Sales_Dashboard.xlsx # Main Excel model & dashboard
-├─ data/
-│ └─ transactions.csv # Raw or cleaned sales data (optional)
-├─ docs/
-│ └─ screenshots/
-│ └─ coffee-dashboard.png # Exported dashboard image(s)
-├─ README.md
-└─ LICENSE
+## 📁 Files Included
+
+| File Name | Description |
+|-----------|-------------|
+| `coffeeOrdersData.xlsx` | Raw dataset containing detailed coffee orders. |
+| `coffeeOrdersProject.xlsx` | Processed and analyzed data including charts, pivot tables, and insights. |
 
 
 ---
@@ -80,10 +75,6 @@ coffee-shop-sales/
 
 ---
 
-## 📝 License
-This project is released under the **MIT License**. See `LICENSE` file.
-
----
 
 ## 🙋 Contact
 **Arbind Shah**  
